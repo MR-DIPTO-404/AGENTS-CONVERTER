@@ -29,7 +29,7 @@
 
 `rm -rf AGENTS-CONVERTER`
 
-`git clone git clone https://github.com/MR-DIPTO-404/AGENTS-CONVERTER`
+`git clone https://github.com/MR-DIPTO-404/AGENTS-CONVERTER`
 
 `cd AGENTS-CONVERTER`
 
